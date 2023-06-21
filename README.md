@@ -1,6 +1,6 @@
 # Stickman-sad-love-story
 "Stickman Love" is a delightful computer graphic mini project that brings to life the endearing tale of two stick figures who discover love in a whimsical world. The project revolves around two stick figures, Stickman and Stickwoman, who live in a vibrant and colorful environment
-.........................................................................................................................
+..............................................................................................................................................................................
 if the graphic.h is  not working
 follow this step's
 1.tdm-gcc ( https://github.com/jmeubank/tdm-gcc/releases/download/v10.3.0-tdm-1/tdm-gcc-10.3.0.exe ) 
